@@ -8,10 +8,12 @@ import MainLayOut from './skeleton/main-layout.tsx';
 import Index from './pages/index.tsx';
 import Dashboard from './pages/dashboard.tsx';
 import Auth from './pages/auth.tsx';
+import ErrorPage from './error-page.tsx';
 
 const router = createBrowserRouter([
 	{
 		element: <MainLayOut />,
+		errorElement: <ErrorPage />,
 		children: [
 			{
 				path: '/',
