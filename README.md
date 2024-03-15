@@ -12,7 +12,7 @@ The project is deployed and can be viewed [here](https://store-challenge.liara.r
 
 ## Test
 
-- There is a simple test to show haw testing is done in react and its just tip of the iceberg! you can run the test with `npm run test`
+- There is a simple test to show how testing is done in react and its just tip of the iceberg! you can run the test with `npm run test`
 
 
 
